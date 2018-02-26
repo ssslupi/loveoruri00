@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 警告 你成功引起了我的注意
 
 You can use the [editor on GitHub](https://github.com/ssslupi/loveoruri/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
